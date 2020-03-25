@@ -1,0 +1,4 @@
+#!/bin/zsh
+
+TES_OBLIVION_APPID=22330
+
